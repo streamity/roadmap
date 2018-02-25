@@ -2,17 +2,17 @@
 
 [Core Team](https://streamity.org#team)
 
+
 ## StreamDesk
 
 ### Alpha
 
 - **Lead:** @martdn
+- Status: In process
 - Planned release: March 2018
-- **Front:** SPA приложение. Реализованы базовые сценарии
-- **API:** In process
-- **Smart Contract:** [repository](https://github.com/streamity/streamdesk-contract)
-- **Payment:** Testing (Integration with payment systems)
-
+- SPA application for deskop devices. Implementation of StreamDesk basic scenario
+- API
+- Smart Contract
 
 ## Events
 
