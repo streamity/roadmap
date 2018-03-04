@@ -16,18 +16,6 @@
 
 ## Events
 
-### Streamity in Minsk
-
-- Planned date: 28 Feb. 2018
-- Location: Belarus, Minsk 
-- [Contact](mailto:info@streamity.org)
-
-### Streamity in Turkey
-
-- Planned date: 1 March 2018
-- Location: Turkey, Stanbul 
-- [Contact](mailto:my@streamity.org)
-
 ### Streamity in Seul
 
 - Planned date: 5-6 March 2018
